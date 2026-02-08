@@ -151,3 +151,20 @@ display:none;
 }
 }
 
+@media(max-width:768px){
+
+.hero-portrait{
+width:260px;
+height:360px;
+right:50%;
+transform:translateX(50%);
+bottom:0;
+opacity:0.18;
+}
+
+.hero-text{
+padding:25px;
+margin:10px;
+}
+}
+
