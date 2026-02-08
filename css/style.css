@@ -157,17 +157,16 @@ display:none;
 
 .hero{
 height:100vh;
-padding-top:60px;
 }
 
 .hero-portrait{
-width:90%;
-height:70%;
+top:55%
 left:50%
 right:auto;
-transform:translateX(-50%);
-bottom:0;
-background-position:center bottom;
+transform:translateX(-50%,-50%);
+width:90%;
+height:70%;
+background-position:center;
 background-size:contain;
 opacity:0.25;
 }
@@ -177,6 +176,7 @@ padding:20px;
 margin:15px;
 }
 }
+
 
 
 
