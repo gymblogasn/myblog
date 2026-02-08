@@ -162,7 +162,7 @@ height:100vh;
 .hero-portrait{
 background-position:center;
 background-size:contain;
-opacity:0.25;
+opacity:0.35;
 }
 
 .hero-text{
@@ -170,6 +170,7 @@ padding:20px;
 margin:15px;
 }
 }
+
 
 
 
