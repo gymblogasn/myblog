@@ -51,7 +51,9 @@ bottom:0;
 right:5%;
 width:500px;
 height:650px;
-background:url('../images/portrait.png') no-repeat center/contain;
+background:url('../images/portrait.png')
+no-repeat center bottom;
+background-size:contain;
 opacity:0.35;
 z-index:1;
 }
@@ -167,6 +169,7 @@ padding:25px;
 margin:10px;
 }
 }
+
 
 
 
