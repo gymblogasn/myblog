@@ -52,7 +52,7 @@ right:5%;
 width:500px;
 height:650px;
 background:url('../images/portrait.png') no-repeat center/contain;
-opacity:0.50;
+opacity:0.35;
 z-index:1;
 }
 
@@ -167,6 +167,7 @@ padding:25px;
 margin:10px;
 }
 }
+
 
 
 
