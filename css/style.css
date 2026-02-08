@@ -160,12 +160,6 @@ height:100vh;
 }
 
 .hero-portrait{
-top:55%
-left:50%
-right:auto;
-transform:translateX(-50%,-50%);
-width:90%;
-height:70%;
 background-position:center;
 background-size:contain;
 opacity:0.25;
@@ -176,6 +170,7 @@ padding:20px;
 margin:15px;
 }
 }
+
 
 
 
